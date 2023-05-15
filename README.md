@@ -7,7 +7,7 @@ Since I just recently started learning coding, you will see a lot of changes on 
 The following table should give you an idea on my level of expertise:
 | Language | Expertise Level (0 - 10) |
 | ----------- | ----------- |
-| Markdown | 10 (obviously ;) ) |
+| Markdown | you be the judge |
 | JS | 0 |
 | HTML | 1 |
 | CSS | 1 |
