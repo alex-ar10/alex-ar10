@@ -1,20 +1,15 @@
 # Welcome to my page
 
-Since I just recently started learning coding, you will see a lot of changes on this page in the coming weeks while I'm trying to expand my skill set to become a full stack web developer.
+I'm a goal-driven and detail-oriented Full Stack Web Developer with a successful
+track record as a Sales Manager. Building modular web apps with experience in
+React with TypeScript and Tailwind CSS, Next.js, Rest APIs and mongoDB has
+become my new passion. I bring with me broad technical, interpersonal as well
+as adaptable business skills that will help me deliver on challenging objectives. I
+am detail-oriented, very resourceful, and goal-driven.
 
-![Super Cool GIF that fits my status on day 1 while learning to code](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
+Feel free to check out my latest app, [Rook 'n' Roll]([https://chess-app-six.vercel.app/])
 
-The following table should give you an idea on my level of expertise:
-| Language | Expertise Level (0 - 10) |
-| ----------- | ----------- |
-| Markdown | you be the judge |
-| JS | 0 |
-| HTML | 1 |
-| CSS | 1 |
-| react | 0 |
-
-
-And this one about the things I love:
+This is just me messing around with markdown:
 |T|h|i|n|g|s||I||💚|
 | - | - | - | - | - | - | - | - | - | - |
 | | | | | | |`C`| | | |
@@ -27,6 +22,3 @@ And this one about the things I love:
 | | | |`M`|`O`|`V`|`I`|`E`|`S`| |
 | | | | | | | |`C`| | |
 | | | | | | | |`H`| | |
-
-
-Come back by August 9 to see more!
