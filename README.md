@@ -7,7 +7,7 @@ become my new passion. I bring with me broad technical, interpersonal as well
 as adaptable business skills that will help me deliver on challenging objectives. I
 am detail-oriented, very resourceful, and goal-driven.
 
-Feel free to check out my latest app, [Rook 'n' Roll]([https://chess-app-six.vercel.app/])
+Feel free to check out my latest app, Rook 'n' Roll ([code](https://github.com/alex-ar10/chess-app) and [deployed version](https://chess-app-six.vercel.app/)
 
 This is just me messing around with markdown:
 |T|h|i|n|g|s||I||💚|
