@@ -5,7 +5,7 @@ track record as a Sales Manager. Building modular web apps with experience in
 React with TypeScript and Tailwind CSS, Next.js, Rest APIs and mongoDB has
 become my new passion. I bring with me broad technical, interpersonal as well
 as adaptable business skills that will help me deliver on challenging objectives. I
-am detail-oriented, very resourceful, and goal-driven.
+am detail-oriented, very resourceful, and efficient.
 
 Feel free to check out my latest app, Rook 'n' Roll ([code](https://github.com/alex-ar10/chess-app) and [deployed version](https://chess-app-six.vercel.app/))
 
